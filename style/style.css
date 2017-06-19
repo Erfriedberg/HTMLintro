@@ -1,8 +1,48 @@
-* {
-  background-color: rgba(255, 255, 0, 0.3);
-  border-color: rgba(255, 0, 0, 0.5);
+html{
+  background: white;
 }
 
-body, HTML {
-  background-color: white;
+h1 {
+  font-style: oblique;
+  color: white;
+  text-align: center;
+  background: mediumblue;
+  padding: 30px;
+  margin: 50px;
+  border: 7px solid red ;
 }
+h2{
+  background-color: white;
+  text-align:right;
+  color:red;
+  padding:40px;
+  margin:30px;
+  border: 8px groove blue;
+}
+h3 {
+  color:white;
+  background: green;
+  padding: 70px;
+  margin: 25px;
+  border: 20px double darkgreen;
+}
+
+
+h6{
+  text-align:center;
+  background:red;
+  color: blue;
+  padding: 100px;
+  margin: 50px;
+  border: 20px inset aliceblue;
+}
+img{
+  border: 20px inset blue
+}
+
+#funDiv {
+  color: green;
+  padding: 20px;
+  border: 30px double black;
+}
+
